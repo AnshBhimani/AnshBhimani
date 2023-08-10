@@ -10,7 +10,7 @@ I am always eager to learn and explore new emerging technologies to expand my sk
 
 Currently, I am seeking good projects to collaborate on to gain some industry experience. I am open to working with others and am a great team player. I am always looking for opportunities to apply my knowledge and skills in real-world scenarios to create impactful solutions.
 
-Overall, I am a dedicated and talented individual with a strong interest in Computer Network and Security. My enthusiasm, eagerness to learn, and willingness to collaborate make me an excellent candidate for any project or team.
+Overall, I am a dedicated and talented individual with a strong interest in Cyber Security. My enthusiasm, eagerness to learn, and willingness to collaborate make me an excellent candidate for any project or team.
 
 <!--
 **AnshBhimani/AnshBhimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
